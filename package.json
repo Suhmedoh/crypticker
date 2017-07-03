@@ -1,0 +1,11 @@
+{
+  "name": "crypticker",
+  "version": "0.0.1",
+  "description": "a cli tool for getting the latest crypto prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Semedo",
+  "license": "ISC"
+}
