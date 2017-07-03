@@ -18,6 +18,8 @@ make output scroll across predefined horizontal size (like an actual stock ticke
 currently using cryptocheck(https://github.com/kaplanmaxe/cryptocheck) to pull in the data
 
 `git clone
+
 npm install
+
 node index.js
 `
